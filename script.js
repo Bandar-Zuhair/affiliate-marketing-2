@@ -1,5 +1,5 @@
 // Replace with your Google Apps Script Web App URL 
-let webAppURL = 'https://script.google.com/macros/s/AKfycbzRlxA_o76pFW9lZuIwH5_PgKa7yzVCl4I_zHkN3Ek1da4mIe7Z1fdEq7tXBmdUtDk/exec';
+let webAppURL = 'https://script.google.com/macros/s/AKfycbwt-jUOsCs6M-wO6MDW_Mv7Qohs4Fm8E2jhEMwsrid9nocjMabiEOZYu9oRVz6y2L9l/exec';
 
 
 /* Insert new click data in the google sheet */
